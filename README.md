@@ -1,2 +1,2 @@
 # push_swap
-42 Scchool | push_swap Project
+42 School | push_swap Project
